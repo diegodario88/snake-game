@@ -1,4 +1,4 @@
-import { expandSnake, onSnake } from './config.js';
+import { expandSnake, onSnake } from './snake.js';
 import { randomGridPosition } from './grid.js';
 
 let food = getRandomFoodPositions()
